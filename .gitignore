@@ -1,0 +1,39 @@
+#-- Files
+*.bak.*
+*.bak
+*.dll
+*.exe
+*.ldf
+*.log
+*.mdf
+*.msi
+*.resharper
+*.sqlite
+ 
+#-- OS Files
+*.DS_Store
+[Tt]humbs.db
+ 
+#-- Directories
+App_Data/*
+[Bb]in/
+[Oo]bj/
+_ReSharper.*/
+tmp/
+.svn/
+.git/
+!/lib
+# mstest test results
+TestResults
+ 
+#-- Microsoft Visual Studio
+*.sln.cache
+*.suo
+*.user
+*.vspscc
+*.vssscc
+ 
+#-- MonoDevelop specific
+*.pidb
+*.userprefs
+*.usertasks
