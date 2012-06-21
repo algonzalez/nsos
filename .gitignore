@@ -25,6 +25,8 @@ tmp/
 !/lib
 # mstest test results
 TestResults
+src/packages
+deploy/
  
 #-- Microsoft Visual Studio
 *.sln.cache
