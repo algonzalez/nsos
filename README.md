@@ -57,7 +57,9 @@ There are two versions of the utility:
       -?, -h, --help  show this message
       -v, --version   shows the version of nSoS
 
-## Buid
+## Build
+
+Project Site: [https://github.com/algonzalez/nsos](https://github.com/algonzalez/nsos)
 
 Run the install-packages.cmd to install any missing project dependencies via NuGet.
 
@@ -79,6 +81,7 @@ NuGet packages required by the nsosTests project:
 
 Planned feature additions and/or enhancements:
 
+- add option to maximize a new window
 - configuration file to define aliases
 - localize strings and messages
 - considering option to interactively select a window if more than one is found
